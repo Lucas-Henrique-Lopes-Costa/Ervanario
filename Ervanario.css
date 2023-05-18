@@ -1010,7 +1010,7 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 1550px;
+  min-height: 1203px;
 }
 
 .u-section-4 .u-text-1 {
@@ -1028,18 +1028,19 @@
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin: 55px auto 0 0;
+  margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .u-section-4 .u-image-1 {
-  background-image: url("images/CapturadeTela2023-05-12as12.42.03.png");
-  min-height: 656px;
-  background-position: 0% 50%;
+  background-image: url("images/WhatsAppImage2023-05-18at13.43.05.jpeg");
+  min-height: 326px;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-layout-cell-2 {
   background-image: none;
-  min-height: 131px;
+  min-height: 65px;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -1048,9 +1049,9 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: url("images/CapturadeTela2023-05-12as12.42.28.png");
-  min-height: 525px;
-  background-position: 50% 0%;
+  background-image: url("images/WhatsAppImage2023-05-18at13.43.041.jpeg");
+  min-height: 261px;
+  background-position: 50% 50%;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -1059,25 +1060,25 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: url("images/CapturadeTela2023-05-12as12.42.32.png");
-  min-height: 656px;
+  background-image: url("images/WhatsAppImage2023-05-18at13.43.042.jpeg");
+  min-height: 326px;
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-layout-wrap-2 {
-  margin-top: 38px;
-  margin-bottom: 41px;
+  width: 1140px;
+  margin: 37px auto 60px -11px;
 }
 
 .u-section-4 .u-image-4 {
-  background-image: url("images/CapturadeTela2023-05-12as12.43.08.png");
+  background-image: url("images/WhatsAppImage2023-05-18at13.43.03.jpeg");
   min-height: 656px;
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-image-5 {
-  background-image: url("images/CapturadeTela2023-05-12as12.43.55.png");
-  min-height: 524px;
+  background-image: url("images/WhatsAppImage2023-05-18at13.43.04.jpeg");
+  min-height: 656px;
   background-position: 50% 50%;
 }
 
@@ -1086,45 +1087,37 @@
   padding-right: 0;
 }
 
-.u-section-4 .u-layout-cell-7 {
-  min-height: 132px;
-}
-
-.u-section-4 .u-image-6 {
-  background-image: url("images/CapturadeTela2023-05-12as12.44.10.png");
-  min-height: 656px;
-  background-position: 50% 50%;
-}
-
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1320px;
+    min-height: 1175px;
   }
 
   .u-section-4 .u-text-1 {
+    margin-top: 204px;
     margin-left: 4px;
     margin-right: 4px;
   }
 
-  .u-section-4 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-4 .u-image-1 {
-    min-height: 541px;
+    min-height: 269px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 108px;
+    min-height: 54px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 433px;
+    min-height: 215px;
   }
 
   .u-section-4 .u-image-3 {
-    min-height: 541px;
+    min-height: 269px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    width: 940px;
+    margin-bottom: 59px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-4 {
@@ -1132,22 +1125,13 @@
   }
 
   .u-section-4 .u-image-5 {
-    min-height: 432px;
-  }
-
-  .u-section-4 .u-layout-cell-7 {
-    min-height: 109px;
-    background-position: 50% 50%;
-  }
-
-  .u-section-4 .u-image-6 {
-    min-height: 541px;
+    min-height: 270px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 2722px;
+    min-height: 1854px;
   }
 
   .u-section-4 .u-text-1 {
@@ -1156,19 +1140,24 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 622px;
+    min-height: 309px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 124px;
+    min-height: 62px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 497px;
+    min-height: 247px;
   }
 
   .u-section-4 .u-image-3 {
-    min-height: 1243px;
+    min-height: 618px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    width: 720px;
+    margin-bottom: 0;
   }
 
   .u-section-4 .u-image-4 {
@@ -1176,15 +1165,7 @@
   }
 
   .u-section-4 .u-image-5 {
-    min-height: 496px;
-  }
-
-  .u-section-4 .u-layout-cell-7 {
-    min-height: 125px;
-  }
-
-  .u-section-4 .u-image-6 {
-    min-height: 1243px;
+    min-height: 310px;
   }
 }
 
@@ -1198,19 +1179,23 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 933px;
+    min-height: 464px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 186px;
+    min-height: 93px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 746px;
+    min-height: 371px;
   }
 
   .u-section-4 .u-image-3 {
-    min-height: 932px;
+    min-height: 464px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    width: 540px;
   }
 
   .u-section-4 .u-image-4 {
@@ -1218,45 +1203,53 @@
   }
 
   .u-section-4 .u-image-5 {
-    min-height: 744px;
-  }
-
-  .u-section-4 .u-layout-cell-7 {
-    min-height: 188px;
-  }
-
-  .u-section-4 .u-image-6 {
-    min-height: 932px;
+    min-height: 465px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 2584px;
+    min-height: 100vh;
   }
 
   .u-section-4 .u-text-1 {
     font-size: 2.25rem;
+    width: auto;
+    margin-top: 50px;
   }
 
   .u-section-4 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 37px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 37px;
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 587px;
+    min-height: 292px;
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 117px;
+    min-height: 59px;
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 470px;
+    min-height: 234px;
   }
 
   .u-section-4 .u-image-3 {
-    min-height: 587px;
+    min-height: 292px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-4 .u-image-4 {
@@ -1264,15 +1257,7 @@
   }
 
   .u-section-4 .u-image-5 {
-    min-height: 468px;
-  }
-
-  .u-section-4 .u-layout-cell-7 {
-    min-height: 118px;
-  }
-
-  .u-section-4 .u-image-6 {
-    min-height: 587px;
+    min-height: 293px;
   }
 } .u-section-5 {
   background-image: none;
